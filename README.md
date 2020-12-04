@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://dev.to/annefou">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anne Fouilloux's DEV Profile" height="30" width="30">
+</a>
+
 I am a Research Software Engineer working for the [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/). 
 
 - 🔭 I’m currently working on:
