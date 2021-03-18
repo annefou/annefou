@@ -10,7 +10,7 @@ I am a Research Software Engineer working for the [Nordic e-Infrastructure Colla
   - [CodeRefinery](https://coderefinery.org/) project: it aims at promoting Best Software Practices
   - [NICEST2](https://neic.no/nicest2/) project: it is the second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling focuses on strengthening the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives.
   - [EOSC-Nordic](https://www.eosc-nordic.eu/) project: it aims to facilitate the coordination of EOSC relevant initiatives within the Nordic and Baltic countries. I am involved in the WP5 on the [climate Science demonstrator](https://nordicesmhub.github.io/eosc-nordic-climate-demonstrator/).
-  - Research Lifecycle Management technologies for Earth Science Communities and Copernicus users in EOSC (RELIANCE)  INFRAEOSC-07-2020 Research and Innovation action - Grant number 101017501. 2 years project starting from January 2021. 
+  - [Research Lifecycle Management technologies for Earth Science Communities and Copernicus users in EOSC (RELIANCE)](https://www.reliance-project.eu/)  INFRAEOSC-07-2020 Research and Innovation action - Grant number 101017501. 2 years project starting from January 2021. 
   - MAchine learning, Surface mass balance of glaciers, Snow cover, In-situ data, Volume change, Earth observation (MASSIVE) project. Funded by the Norwegian Research Council. 4 years project starting 1st June 2021 until 31 May 2025. 
 
 
