@@ -12,9 +12,6 @@ I am a Research Software Engineer working for the [Nordic e-Infrastructure Colla
   - [Research Lifecycle Management technologies for Earth Science Communities and Copernicus users in EOSC (RELIANCE)](https://www.reliance-project.eu/)  INFRAEOSC-07-2020 Research and Innovation action - Grant number 101017501. 2 years project starting from January 2021. 
   - MAchine learning, Surface mass balance of glaciers, Snow cover, In-situ data, Volume change, Earth observation (MASSIVE) project. Funded by the Norwegian Research Council. 4 years project starting 1st September 2021 until 31 August 2025. 
 
-
-- 🌱 I’m currently learning [Julia](https://julialang.org/)
-
 - 💬 Ask me about the [Galaxy Climate Science Workbench](https://climate.usegalaxy.eu/) and/or the [Nordic Earth System Modelling Hub](https://github.com/NordicESMhub/).
 
 - Get information on Climate modelling in the Nordic on the [Nordic Earth System modelling website](https://nordicesmhub.github.io/)
