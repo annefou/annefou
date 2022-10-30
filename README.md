@@ -8,6 +8,9 @@ I am a Research Software Engineer working for the [Nordic e-Infrastructure Colla
 
 - 🔭 I’m currently working on:
   - [NICEST2](https://neic.no/nicest2/) project: I am the project leader of the second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling. This project focuses on strengthening the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives.
+  - [T-SAR](https://www.simula.no/research/projects/t-sar) project: it aims at demonstrating that recent advances in Artificial Intelligence (AI) can be leveraged in the automatic detection of FDIA in transport infrastructures. Prototypes have been developed by researchers (PhD student) and I am working on the operationalization of the code base.
+
+- Past projects:
   - [EOSC-Nordic](https://www.eosc-nordic.eu/) project: it aims to facilitate the coordination of EOSC relevant initiatives within the Nordic and Baltic countries. I am involved in the WP5 on the [climate Science demonstrator](https://nordicesmhub.github.io/eosc-nordic-climate-demonstrator/).
   - [Research Lifecycle Management technologies for Earth Science Communities and Copernicus users in EOSC (RELIANCE)](https://www.reliance-project.eu/)  INFRAEOSC-07-2020 Research and Innovation action - Grant number 101017501. 2 years project starting from January 2021. 
   - MAchine learning, Surface mass balance of glaciers, Snow cover, In-situ data, Volume change, Earth observation (MASSIVE) project. Funded by the Norwegian Research Council. 4 years project starting 1st September 2021 until 31 August 2025. 
@@ -17,6 +20,7 @@ I am a Research Software Engineer working for the [Nordic e-Infrastructure Colla
 - Get information on Climate modelling in the Nordic on the [Nordic Earth System modelling website](https://nordicesmhub.github.io/)
 
 - 😄 Pronouns: She/her/hers
+
 <!--
 **annefou/annefou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
