@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](climate_stripes_Oslo_1950_2019.png)
+
 <a href="https://dev.to/annefou">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anne Fouilloux's DEV Profile" height="30" width="30">
 </a>
