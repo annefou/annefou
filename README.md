@@ -60,6 +60,7 @@ I am eager to apply my expertise in Open Science and FAIR principles to new chal
   - [Environmental Impact Focus Group](https://elixir-europe.org/focus-groups/environmental-impact) from [Elixir](https://elixir-europe.org/);
   - [The Turing Way](https://the-turing-way.netlify.app/index.html) where I contributed to the chapter on [Research Objects in action](https://the-turing-way.netlify.app/communication/research-objects.html). I am now working on the [Environmental Impact of Digital Research](https://github.com/alan-turing-institute/the-turing-way/pull/3117).
 
+**About me**
 - 💬 Ask me about the [Galaxy Climate Science Workbench](https://climate.usegalaxy.eu/), the [Nordic Earth System Modelling Hub](https://github.com/NordicESMhub/).
 
 - Get information on Climate modelling in the Nordic on the [Nordic Earth System modelling website](https://nordicesmhub.github.io/)
