@@ -6,8 +6,43 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anne Fouilloux's DEV Profile" height="30" width="30">
 </a>
 
-I am a Senior Research Engineer at [Simula Research Laboratory](https://www.simula.no) and a [GO FAIR Foundation Fellow](https://www.gofair.foundation/fellow).
+I am a Senior Research Engineer at [Simula Research Laboratory](https://www.simula.no) and a Qualified 3PFF [GO FAIR Foundation](https://www.gofair.foundation) facilitator and a [GO FAIR Foundation Fellow](https://www.gofair.foundation/fellow).
 
+As an advocate for Open Science, FAIR Software, and Data, I am dedicated to fostering innovation through enhanced data management and collaboration. With extensive experience in the implementation of FAIR principles, I focus on leveraging these methodologies to drive scientific and technological advancements.
+
+My professional journey includes roles in academia, international organizations, and small enterprises across Norway, the United Kingdom, and France. I hold a Master’s degree in Computer Science and a Ph.D. in Remote Sensing and Cloud Modelling from the University of Clermont-Ferrand, France.
+
+**Key Skills**:
+
+- Open Science and FAIR principles
+- Data management and software development
+- Cross-disciplinary collaboration and project management
+- Innovation enablement through FAIR methodologies
+
+**Professional Experience**:
+
+- Leading initiatives in data and software standardization
+- Enhancing collaboration and data sharing in scientific communities
+- Driving innovation by implementing FAIR data principles
+
+**Career Highlights**:
+
+- Successfully contributed to the development of the European Open Science Cloud (EOSC)
+- Played a key role in promoting FAIR for machine learning initiatives
+- Actively involved in projects that enable innovation through better data management
+
+**Career Goals**:
+I am eager to apply my expertise in Open Science and FAIR principles to new challenges in the tech or research sectors. I am particularly interested in roles that allow me to drive innovation, enhance data interoperability, and facilitate impactful collaborations.
+
+**Ask me about**:
+
+- European Open Science Cloud (EOSC) in practice
+- FAIR data and software
+- FAIR for machine learning
+- Enabling innovation through FAIR principles
+- Galaxy Climate Science Workbench
+
+**Current Projects**
 - 🔭 I’m currently working on:
   - [GO FAIR Foundation Fellows Programme](https://www.gofair.foundation/fellow): I am working with the larger GO FAIR community to learn more about FAIR implementation approaches and help others to implement FAIR data and services. I contributed to setting up the [SIP Wizard](https://sip-wizard.ds-wizard.org/), now a component in the EOSC Semantic Interoperability Framework. I developed and maintain the [sheet2RDF pipeline for GFF](https://github.com/gofair-foundation/m4m-vocabulary) (it is used for teaching Metadata for Machines workshops). Together with other GFF Fellows, we initiated the creation of professional training videos that will be made available in 2024. 
   - [Global Fish Tracking System (GFTS)](https://destination-earth.github.io/DestinE_ESA_GFTS/intro.html): [Destination Earth](https://destination-earth.eu) DESP Use Case (November 2023 - October 2024). This project is dedicated to enhancing our understanding of wild fish stocks, particularly focusing on sea bass, a species of significant economic importance. The initiative responds to a recognized information gap highlighted by the International Council for the Exploration of the Sea (ICES), specifically concerning essential fish habitats for sea bass. The lack of accurate data on these habitats poses challenges in formulating effective conservation policies. To address this, a large-scale tagging experiment on adult sea bass has been conducted, generating biologging data. Additionally, innovative software tools, including the Pangeo ecosystem and the pangeo-fish model, have been developed to geolocate fish and estimate their movement patterns based on a variety of data sources.
