@@ -6,7 +6,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anne Fouilloux's DEV Profile" height="30" width="30">
 </a>
 
-I am a Senior Research Engineer at [Simula Research Laboratory](https://www.simula.no) and a Qualified 3PFF [GO FAIR Foundation](https://www.gofair.foundation) facilitator and a [GO FAIR Foundation Fellow](https://www.gofair.foundation/fellow).
+I am leading the [Science Live for All](http://sciencelive4all.org) initiative as part of [Viten Hub AS](http://vitenhub.no/) and a Qualified 3PFF [GO FAIR Foundation](https://www.gofair.foundation) facilitator and a [GO FAIR Foundation Fellow](https://www.gofair.foundation/fellow).
 
 As an advocate for Open Science, FAIR Software, and Data, I am dedicated to fostering innovation through enhanced data management and collaboration. With extensive experience in the implementation of FAIR principles, I focus on leveraging these methodologies to drive scientific and technological advancements.
 
